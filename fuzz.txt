@@ -1,8 +1,10 @@
 _debugbar
+.gitlab-ci.yml
 _profiler
 web.zip
 env/.config
 .DS_Store
+wp-config.php.bak
 .env/.config
 .env.example
 admin/pma/setup/index.php
@@ -51,3 +53,5 @@ health
 env
 logfile
 trace
+config/config.prod.json
+config.prod.json
