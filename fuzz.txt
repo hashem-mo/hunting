@@ -2,6 +2,7 @@ _debugbar
 .gitlab-ci.yml
 _profiler
 web.zip
+Administration/Administration.aspx
 env/.config
 .DS_Store
 wp-config.php.bak
