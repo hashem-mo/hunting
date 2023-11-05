@@ -1,3 +1,5 @@
+grafana/logs
+grafana/logs/
 _debugbar
 .gitlab-ci.yml
 _profiler
