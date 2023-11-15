@@ -1,6 +1,7 @@
 database.create.json
 grafana/logs
 grafana/logs/
+auth.json
 _debugbar
 .gitlab-ci.yml
 _profiler
