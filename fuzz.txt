@@ -43,7 +43,10 @@ ui/package.json
 _layouts
 layouts 
 config/app-constants.js
-OA_HTML/ibeCAcpSSOReg.jsp /OA_HTML/ibeCRgpIndividualUser.jsp OA_HTML/ibeCRgpPrimaryCreate.jsp /OA_HTML/ibeCRgpPartnerPriCreate.jsp
+OA_HTML/ibeCAcpSSOReg.jsp
+OA_HTML/ibeCRgpIndividualUser.jsp
+OA_HTML/ibeCRgpPrimaryCreate.jsp 
+OA_HTML/ibeCRgpPartnerPriCreate.jsp
 phpldapadmin/index.php
 assets-manifest.json
 domain/phpldapadmin/cmd.php
