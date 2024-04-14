@@ -1,0 +1,22 @@
+POST /dap-ignite/graphql HTTP/1.1
+Host: portal.grab.com
+X-Bug-Bounty:HackerOne-hashem_mo
+Connection: keep-alive
+Content-Length: 27
+sec-ch-ua: "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+authorization: 
+X-Grab-Source: reboarding
+content-type: application/json
+accept: */*
+sec-ch-ua-platform: "Windows"
+Origin: https://reboarding.grab.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://reboarding.grab.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9,ar;q=0.8
+
+{"query":"query {FUZZ}"}
